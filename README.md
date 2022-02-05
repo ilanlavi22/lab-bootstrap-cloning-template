@@ -1,3 +1,5 @@
+<p align="center"><a href="https://lab-bootstrap-cloning-template.netlify.app/">Published in Netlify</a>
+
 <p align="center"><img width="250" src="https://i.imgur.com/lMo1s1G.png"/></p>
 
 # Cloning with Bootstrap
